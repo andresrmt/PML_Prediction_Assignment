@@ -1,8 +1,10 @@
 ---
-title: "Practical Machine Learning Project: Prediction Assignment"
+title: 'Practical Machine Learning Project: Prediction Assignment'
 author: "Andrés Miniguano Trujillo"
 date: "7/30/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
